@@ -1,4 +1,4 @@
-<h1 align="center"> Criação de uma landing page com HTML, CSS e JavaScript </h1>
+<h1 align="center"> Criação de um site com HTML, CSS e JavaScript </h1>
 
 <h2 align="center"> Grower | IT Consulting </h2>
 
