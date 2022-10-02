@@ -155,7 +155,6 @@ button.button1{
     height: 400px;
     width: 300px;
     margin: 80px;
-    color: white;
     margin-bottom: 15%;
     border-top: 4px solid #003459;
 }
@@ -184,6 +183,11 @@ button.button1{
     background-repeat: no-repeat;
 }
 
+.team-description{
+    text-align: center;
+    color: #002947;
+}
+
 .team-header{
     text-align: center;
     margin-bottom: 30px;
@@ -200,3 +204,4 @@ p.team1, p.team2, p.team3, p.team4{
     margin-top: 25px;
     margin-bottom: 30%;
 }
+
