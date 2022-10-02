@@ -12,4 +12,4 @@
 
 # Descrição do projeto
 
-<h4> Esta é a landing page em desenvolvimento de um trabalho da faculdade. Apesar de ter apenas HTML e CSS, outras tecnologias serão adicionadas ao projeto em breve =) </h4> 
+<h4> Esta é uma página em desenvolvimento de um trabalho da faculdade. Apesar de ter apenas HTML e CSS, outras tecnologias serão adicionadas ao projeto em breve =) </h4> 
