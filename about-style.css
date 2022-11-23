@@ -1,0 +1,66 @@
+* {
+    font-family: Arial;
+    font-variant-caps: normal;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.header-text li {
+    display: inline-block;
+    font-size: 25px;
+    padding-top: 60px;
+    text-decoration: none;
+    color: #003459;
+    list-style-type: none;
+    text-align: center;
+    word-spacing: 40px;
+}
+
+body {
+    background-color: #003459;
+    height: 600px;
+}
+
+.header-text {
+    list-style-type: none;
+    word-spacing: 40px;
+    text-align: center;
+    height: 150px;
+    text-decoration: none;
+    background-color: white;
+    background-image: url("grower(2).png");
+    background-size: 150px;
+    background-repeat: no-repeat;
+}
+
+a:link, a:visited {
+    text-decoration: none
+}
+
+a:hover {
+    border-bottom: 2px solid #003459;
+}
+
+a {
+    color: #003459;
+}
+
+.header-text li {
+    display: inline-block;
+    font-size: 25px;
+    padding-top: 60px;
+    text-decoration: none;
+    color: #003459;
+}
+
+h2.maintext{
+    margin-top: 250px;
+    color: white;
+    text-align: center;
+    font-size: 28px;
+    place-content: center;
+}

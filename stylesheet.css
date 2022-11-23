@@ -1,3 +1,5 @@
+@media (min-width:320px) { }
+
 *{
     font-family: Arial;
     margin: 0;
@@ -203,5 +205,10 @@ p.team1, p.team2, p.team3, p.team4{
     text-align: center;
     margin-top: 25px;
     margin-bottom: 30%;
+}
+
+.video{
+    position: relative;
+    left: 37%;
 }
 
