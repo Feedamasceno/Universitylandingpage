@@ -12,4 +12,4 @@
 
 # Descrição do projeto
 
-<h4> Esta é uma página em desenvolvimento de um trabalho da faculdade. =) </h4> 
+<h4> Esta é uma página de um trabalho da faculdade. =) </h4> 
