@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO.&color=GREEN&style=for-the-badge"/>
 </p>
 
 # Descrição do projeto
 
-<h4> Esta é uma página em desenvolvimento de um trabalho da faculdade. Apesar de ter apenas HTML e CSS, outras tecnologias serão adicionadas ao projeto em breve =) </h4> 
+<h4> Esta é uma página em desenvolvimento de um trabalho da faculdade. =) </h4> 
